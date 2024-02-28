@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonyljx)](https://github.com/anuraghazra/github-readme-stats)
 
-![Tonyljx's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonyljx&theme=dark&show_icons=true)
+![Tonyljx's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonyljx&theme=default&show_icons=true)
 
  
 
