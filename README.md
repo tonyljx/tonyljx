@@ -11,9 +11,9 @@
  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-217%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-222%20hrs%207%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-310.8%20thousand%20lines%20of%20code-blue)
 
@@ -25,9 +25,9 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 46 Public Repositories 
+> 📜 47 Public Repositories 
  > 
-> 🔑 8 Private Repositories 
+> 🔑 7 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -56,19 +56,19 @@ Sunday                   42 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               18 hrs 43 mins      ███████████████████░░░░░░   75.53 % 
-Prisma                   2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
-Markdown                 1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-Bash                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-Other                    17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+TypeScript               21 hrs 16 mins      ████████████████████░░░░░   78.82 % 
+Prisma                   3 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+Bash                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Markdown                 40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 
 🔥 Editors: 
-VS Code                  24 hrs 47 mins      █████████████████████████   100.00 % 
+VS Code                  26 hrs 59 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      24 hrs 47 mins      █████████████████████████   100.00 % 
+Mac                      26 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/03/2024 00:52:13 UTC
+ Last Updated on 14/03/2024 00:51:30 UTC
 <!--END_SECTION:waka-->
