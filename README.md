@@ -11,9 +11,9 @@
  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-444%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-447%20hrs%2053%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-589.6%20thousand%20lines%20of%20code-blue)
 
@@ -21,13 +21,13 @@
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 353 Contributions in the Year 2024
+> 🏆 354 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 55 Public Repositories 
  > 
-> 🔑 16 Private Repositories 
+> 🔑 17 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -56,19 +56,19 @@ Sunday                   65 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               10 hrs 58 mins      ███████████████████████░░   91.69 % 
-JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
-Other                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-Prisma                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
-Text                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+TypeScript               16 hrs 35 mins      ███████████████████████░░   93.11 % 
+JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Other                    21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Prisma                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Bash                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 58 mins      █████████████████████████   100.00 % 
+VS Code                  17 hrs 48 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      11 hrs 58 mins      █████████████████████████   100.00 % 
+Mac                      17 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/07/2024 00:59:19 UTC
+ Last Updated on 07/07/2024 01:06:17 UTC
 <!--END_SECTION:waka-->
