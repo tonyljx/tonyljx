@@ -11,15 +11,17 @@
  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-548%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-555%20hrs%2019%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-606.1%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.1 MB Used in GitHub's Storage 
+ > 
+> 🏆 372 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -54,19 +56,19 @@ Sunday                   65 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               23 hrs 2 mins       ███████████████████░░░░░░   77.61 % 
-JavaScript               2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-JSON                     1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-Other                    1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-Prisma                   34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+TypeScript               23 hrs 34 mins      ███████████████████░░░░░░   76.20 % 
+JSON                     2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+JavaScript               2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+Other                    1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+Prisma                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 
 🔥 Editors: 
-VS Code                  29 hrs 40 mins      █████████████████████████   100.00 % 
+VS Code                  30 hrs 55 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      29 hrs 40 mins      █████████████████████████   100.00 % 
+Mac                      30 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/08/2024 01:07:59 UTC
+ Last Updated on 02/08/2024 01:02:56 UTC
 <!--END_SECTION:waka-->
