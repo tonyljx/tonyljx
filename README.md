@@ -11,9 +11,9 @@
  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-715%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-716%20hrs%2030%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-620.8%20thousand%20lines%20of%20code-blue)
 
@@ -21,11 +21,11 @@
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 431 Contributions in the Year 2024
+> 🏆 432 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 57 Public Repositories 
+> 📜 58 Public Repositories 
  > 
 > 🔑 26 Private Repositories 
  > 
@@ -56,19 +56,19 @@ Sunday                   76 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               17 hrs 49 mins      █████████████████████░░░░   83.22 % 
-JavaScript               1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
-Other                    50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-Bash                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+TypeScript               13 hrs 26 mins      ███████████████████░░░░░░   75.79 % 
+Swift                    2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Other                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+Bash                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+JSON                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 24 mins      █████████████████████████   100.00 % 
+VS Code                  17 hrs 43 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      21 hrs 24 mins      █████████████████████████   100.00 % 
+Mac                      17 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/09/2024 01:05:33 UTC
+ Last Updated on 08/09/2024 01:12:11 UTC
 <!--END_SECTION:waka-->
