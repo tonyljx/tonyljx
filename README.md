@@ -11,15 +11,17 @@
  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-758%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-759%20hrs%2016%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-620.8%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.1 MB Used in GitHub's Storage 
+ > 
+> 🏆 438 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -54,16 +56,17 @@ Sunday                   76 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               3 hrs 16 mins       █████████████████████████   98.07 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+TypeScript               3 hrs 7 mins        ██████████████████████░░░   88.06 % 
+JSON                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 19 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 32 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 19 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 28/09/2024 01:10:26 UTC
+ Last Updated on 29/09/2024 01:16:26 UTC
 <!--END_SECTION:waka-->
