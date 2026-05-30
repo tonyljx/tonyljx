@@ -11,7 +11,9 @@
  
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C626%20hrs%2028%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.74%20million%20lines%20of%20code-blue?style=flat)
 
@@ -19,7 +21,7 @@
 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
-> 🏆 3,235 Contributions in the Year 2026
+> 🏆 3,241 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -27,6 +29,42 @@
  > 
 > 🔑 74 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 29/05/2026 00:59:13 UTC
+```text
+🌞 Morning                1683 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+🌆 Daytime                9022 commits        ██████████░░░░░░░░░░░░░░░   39.88 % 
+🌃 Evening                7034 commits        ████████░░░░░░░░░░░░░░░░░   31.10 % 
+🌙 Night                  4882 commits        █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   2985 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+Tuesday                  3348 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+Wednesday                3554 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+Thursday                 4024 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
+Friday                   3188 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Saturday                 2786 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+Sunday                   2736 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 30/05/2026 00:55:36 UTC
 <!--END_SECTION:waka-->
